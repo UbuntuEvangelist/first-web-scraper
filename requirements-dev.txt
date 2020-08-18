@@ -13,6 +13,6 @@ livereload==2.2.0
 pathtools==0.1.2
 requests==2.5.0
 sphinx-autobuild==0.3.0
-tornado==4.0.2
+tornado==5.1.0
 watchdog==0.8.2
 wsgiref==0.1.2
